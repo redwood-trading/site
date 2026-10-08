@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="44 40 112 116" role="img" aria-label="Redwood Trading">
-  <rect x="89" y="124" width="11" height="26" fill="#8a4630"/>
-  <rect x="100" y="124" width="11" height="26" fill="#6a3322"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="44 40 112 128" role="img" aria-label="Redwood Trading">
+  <rect x="89" y="124" width="11" height="40" fill="#8a4630"/>
+  <rect x="100" y="124" width="11" height="40" fill="#6a3322"/>
   <polygon points="100,48 48,122 57,135 82,122" fill="#8c8c8c"/>
   <polygon points="100,48 82,122 100,131" fill="#b4b4b4"/>
   <polygon points="100,48 100,131 118,122" fill="#9a9a9a"/>
